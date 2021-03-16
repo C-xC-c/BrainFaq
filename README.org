@@ -1,0 +1,11 @@
+* Brainfuc#
+Magically convert brainfuck to C# at compile time.
+
+** Requriements
+The .Net 5 SDK.
+
+** Usage
+- Copy a file with brainfuck code in to =/src/Example/Brainfuc#/=
+- The function =brainfucs.Brainfuck.{filename}= now exists?
+- ???
+- Profit.
