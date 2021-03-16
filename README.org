@@ -9,3 +9,6 @@ The .Net 5 SDK.
 - The function =brainfucs.Brainfuck.{filename}= now exists?
 - ???
 - Profit.
+
+* Visual Studio No Like
+- Perform the magic incantation of restarting it a couple times. 
