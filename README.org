@@ -5,7 +5,7 @@ Magically convert brainfuck to C# at compile time.
 The .Net 5 SDK.
 
 ** Usage
-- Copy a file with brainfuck code in to =/src/Example/Brainfuc#/=
+- Copy a file with brainfuck code and the extension '.b' or '.bf' in to =/src/Example/Brainfuc#/=
 - The function =brainfucs.Brainfuck.{filename}= now exists?
 - ???
 - Profit.
